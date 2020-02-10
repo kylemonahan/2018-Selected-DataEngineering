@@ -1,0 +1,17 @@
+
+
+
+
+1. 
+http://sedac.ciesin.columbia.edu/data/set/povmap-small-area-estimates-poverty-inequality/data-download#
+
+
+2.
+https://vietnam.opendevelopmentmekong.net/dataset?id=61-poorest-districts-in-vietnam
+
+3.
+https://data.opendevelopmentmekong.net/organization/vietnam-organization?q=poverty&sort=score+desc%2C+metadata_modified+desc
+
+
+4. The shapefiles are titled VietnamCensus2009_IPUMSI. The added fields include the following: 
+a.	Note – All per districtb.	Girls: number of women c.	Boys: number of men d.	DisabNA: Disabled – not in universe (NA)e.	DisabY: disabled = Yf.	DisabN: disabled = Ng.	DisabUK: disabled = no reply/unknown h.	Age4 = age 0-4 i.	Age5 = age 5-10 j.	Etc. with age, where the number is the lowest category using the categories here, from Age 0 – 80+: https://international.ipums.org/international-action/downloads/extract_files/ipumsi_00005.cbkk.	ElecY: number of people who have access to electricity l.	ElecN: number of people who do not have access to electricity m.	ElecUK: number of people with no reply/unknownn.	WatsP: number of people who have access to piped watero.	WatsPP: number of people who have access to a public water supplyp.	WatsN: number of people who don’t have access to a water supply q.	WatsUK: number of people with no reply/unknownr.	LitNA: number of people with no reply/unknowns.	LitN: number of people who are not literate t.	LitY: number of people who are literate 
